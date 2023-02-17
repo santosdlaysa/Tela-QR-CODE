@@ -47,18 +47,19 @@ body {
     margin-bottom: 15px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 400px) {
     .container {
-        width: 35vw;
+        width: 50vw;
+        height: 35vh;
     }
     .container img {
-        width: 30vw;
+        width: 35vw;
     }
     .container h1 {
-        font-size: 20px;
+        font-size: 15px;
     }
     .container p {
-        font-size: 15px;
+        font-size: 12px;
 
 }
     
